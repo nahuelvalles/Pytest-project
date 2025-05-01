@@ -1,7 +1,3 @@
-QubikaPytest
-This project is a technical challenge implementing automated tests using Selenium and pytest in Python.
-
-************************************************************************
 REQUIREMENTS AND HOW TO RUN TCs (Visual Studio Code / Pycharm)
 
 Visual Studio Code:
